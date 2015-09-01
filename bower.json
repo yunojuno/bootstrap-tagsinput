@@ -1,12 +1,12 @@
 {
-  "name": "bootstrap-tagsinput",
+  "name": "yj-bootstrap-tagsinput",
   "version": "0.5.0",
-  "homepage": "https://github.com/TimSchlechter/bootstrap-tagsinput",
+  "homepage": "https://github.com/yunojuno/bootstrap-tagsinput",
   "authors": [
     "Tim Schlechter",
     "Luckner Jr Jean-Baptiste"
   ],
-  "description": "jQuery plugin providing a Twitter Bootstrap user interface for managing tags.",
+  "description": "YJ fork ofjQuery plugin providing a Twitter Bootstrap user interface for managing tags.",
   "main": [
     "dist/bootstrap-tagsinput.js",
     "dist/bootstrap-tagsinput.css"
